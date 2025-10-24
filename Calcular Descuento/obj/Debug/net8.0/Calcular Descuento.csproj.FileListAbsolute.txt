@@ -1,0 +1,14 @@
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\bin\Debug\net8.0\Calcular Descuento.exe
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\bin\Debug\net8.0\Calcular Descuento.deps.json
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\bin\Debug\net8.0\Calcular Descuento.runtimeconfig.json
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\bin\Debug\net8.0\Calcular Descuento.dll
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\bin\Debug\net8.0\Calcular Descuento.pdb
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.AssemblyInfoInputs.cache
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.AssemblyInfo.cs
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.dll
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\refint\Calcular Descuento.dll
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.pdb
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\Calcular Descuento.genruntimeconfig.cache
+C:\Users\Micha\Desktop\VISUAL ESTUDIO 22\Calcular Descuento\Calcular Descuento\obj\Debug\net8.0\ref\Calcular Descuento.dll
